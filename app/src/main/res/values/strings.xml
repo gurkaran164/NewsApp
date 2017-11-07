@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="internet">No Internet </string>
+    <string name="empty_text">No News</string>
+</resources>
